@@ -3,7 +3,7 @@
 body {
     font-family: 'Arial', sans-serif;
     background-color: black;
-    width: 90%
+    width: 85%;
     margin: 0;
     padding: 150px;
 }
@@ -53,8 +53,8 @@ h3 {
 }
 
 ul {
-    list-style-type: fill round;
-    padding: 10;
+    list-style-type: disc;
+    padding: 10px;
     margin: 10px 0;
 }
 
